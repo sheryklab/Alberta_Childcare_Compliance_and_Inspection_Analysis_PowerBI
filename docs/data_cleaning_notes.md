@@ -44,7 +44,8 @@ Fields include
 Geographic information for each program.
 
 Fields include  
-- CityID  
+- CityID
+- Program City  
 - City AB  
 
 ### ProgramType
